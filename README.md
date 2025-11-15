@@ -87,5 +87,3 @@ All practicals were executed in **Google BigQuery** using uploaded CSV datasets.
 _Data Analyst in Training | Mathematics (Hons) | SQL • Excel • Python • Power BI • MySQL • ChatGPT for A-Z Data Analysis Certified (Udemy)_ 
 
 ---
-
-### ⭐ If you found this useful, give this repository a star!
